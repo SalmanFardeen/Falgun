@@ -1,4 +1,4 @@
-# fireblogs
+# Falgun
 
 ## Project setup
 ```
